@@ -3,6 +3,9 @@ Created on Sun Feb 20 21:31:53 2022
 
 @author: udaytalwar
 """
+
+#Please refer to "BlackScholesEqns.pdf" in this repository for more details about the equations! 
+
 import scipy.stats as stats
 import math as m 
 
